@@ -1,6 +1,6 @@
 # Akshay Vijay Bidwai
 
-Welcome to my GitHub profile! I'm a Master of Science in Computer Science and Engineering graduate from Santa Clara University, with a strong foundation in software engineering, machine learning, and cloud computing. Passionate about building scalable software solutions and enhancing system efficiency through innovative technology.
+Welcome to my GitHub profile! I'm a Master of Science in Computer Science and Engineering graduate student from Santa Clara University, with a strong foundation in software engineering, machine learning, and cloud computing. Passionate about building highly scalable software solutions and enhancing system efficiency through innovative technologies.
 
 ## 🎓 Education
 - **Santa Clara University, CA, USA**  
