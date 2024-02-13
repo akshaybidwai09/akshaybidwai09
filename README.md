@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I'm a Master of Science in Computer Science and En
   - Extracted and processed key features and information from products, effectively retrieving and displaying the relevant data on dashboards.  
 
 ## 🚀 Projects
-- **Content Management System** - A platform for organizational digital content management. [GitHub](#)
-- **Video Authentication System** - A video conferencing app with user authenticity verification. [GitHub](#)
-- **Recommendation System** - Microservice recommending similar products based on purchase history. [GitHub](#)
+- **Content Management System** - A platform for organizational digital content management. [View Project](https://github.com/akshaybidwai09/CMS-Integration-Backend)
+- **Video Authentication System** - A video conferencing app with user authenticity verification. [View Project](https://github.com/akshaybidwai09/Custom-Face-Detection-Using-Deep-Learning)
+- **Recommendation System** - Microservice recommending similar products based on purchase history. [View Project](https://github.com/akshaybidwai09/Recommendation-Systems-Products-Music-Movies)
 
 ## 📫 How to Reach Me
 - **Email:** abidwai@scu.edu, akshaybidwaiv@gmail.com.
-- [LinkedIn](#) | [GitHub](https://github.com/akshaybidwai09)
+- [LinkedIn](https://www.linkedin.com/in/akshay-bidwai/) | [GitHub](https://github.com/akshaybidwai09)
 
 I'm actively looking for opportunities to grow and make impactful contributions in the field of software development. Let's connect!
