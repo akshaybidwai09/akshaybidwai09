@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a Master of Science in Computer Science and En
 - **Recommendation System** - Microservice recommending similar products based on purchase history. [GitHub](#)
 
 ## 📫 How to Reach Me
-- **Email:** abidwai@scu.edu
+- **Email:** abidwai@scu.edu, akshaybidwaiv@gmail.com.
 - [LinkedIn](#) | [GitHub](https://github.com/akshaybidwai09)
 
 I'm actively looking for opportunities to grow and make impactful contributions in the field of software development. Let's connect!
