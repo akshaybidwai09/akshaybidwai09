@@ -46,4 +46,4 @@ Welcome to my GitHub profile! I'm a Master of Science in Computer Science and En
 - **Email:** abidwai@scu.edu, akshaybidwaiv@gmail.com.
 - [LinkedIn](https://www.linkedin.com/in/akshay-bidwai/) | [GitHub](https://github.com/akshaybidwai09)
 
-I'm actively looking for opportunities to grow and make impactful contributions in the field of software development. Let's connect!
+## Targeting Meta, Google and Microsoft and soon I will crack one of them !😉
